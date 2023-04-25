@@ -6,7 +6,7 @@ export default function Notifications() {
       title="Notificações"
       subtitle="Aqui é sua área de notificações, lembre-se de sempre mantê-la em dia!"
     >
-      <p>Conteúdo notificações!</p>
+      <p>Conteúdo notificações</p>
     </Layout>
   );
 }
